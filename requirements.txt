@@ -1,0 +1,4 @@
+openpyxl==3.0.7
+xlsxwriter==1.4.3
+windnd==1.0.7
+pyinstaller==4.3
